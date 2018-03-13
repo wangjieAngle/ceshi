@@ -6,3 +6,4 @@
 xiugaineirong
 修复bug提交打破preivew
 这个是dev新开发的功能
+这个是master分支上的新功能
